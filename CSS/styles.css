@@ -268,7 +268,7 @@ a :hover{
 
 /* ----------------------------------Mobile Responsive------------------------------- */
 
-@media (max-width: 1400px){
+@media (max-width: 1300px){
 
   p {
     width: 40%;
